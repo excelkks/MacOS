@@ -22,3 +22,5 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 brew cask install qq wechat google-chrome iterm2 typora iina microsoft-office the-unarchiver
 ```
 
+#### 5. hidpi setting
+[enable hidpi](https://comsysto.github.io/Display-Override-PropertyList-File-Parser-and-Generator-with-HiDPI-Support-For-Scaled-Resolutions/)
