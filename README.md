@@ -19,7 +19,7 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 ### 4. install software
 
 ```shell
-brew cask install qq wechat google-chrome iterm2 typora iina microsoft-office the-unarchiver sharemouse mos
+brew cask install qq wechat google-chrome iterm2 typora iina microsoft-office the-unarchiver sharemouse mos visual-studio-code
 ```
 ### 5. sharemouse
 可以多台电脑共享一套鼠键，包括可以在Window和MacOS下共享，基础功能免费 MacOS下安装
