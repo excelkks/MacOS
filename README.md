@@ -50,3 +50,7 @@ Window下安装
 - [USB网络共享](https://drive.google.com/file/d/1aEw-NL4FbZrT-CnXfET-Buao0VU6OCnH/view?usp=sharing)
 - [Kext Utility](https://drive.google.com/file/d/1iWS7MM1cdbZjjWQuDtSiwnbU5sMdJjBB/view?usp=sharing)
 - 字体[consolas](https://drive.google.com)
+
+### 10. 改建
+将shift改为F13键，再将输入法切换键设置为F13.
+改建方法，按照karabiner-elements，打开设置[ 网站 ](https://genesy.github.io/karabiner-complex-rules-generator/#eyJ0aXRsZSI6IlByZXNzIGxlZnRfc2hpZnQgYWxvbmUgcHJvZHVjZXMgRjEzIiwicnVsZXMiOlt7ImRlc2NyaXB0aW9uIjoiUHJlc3MgbGVmdF9zaGlmdCBhbG9uZSBwcm9kdWNlcyBGMTMiLCJtYW5pcHVsYXRvcnMiOlt7InR5cGUiOiJiYXNpYyIsImZyb20iOnsia2V5X2NvZGUiOiJsZWZ0X3NoaWZ0IiwibW9kaWZpZXJzIjp7Im9wdGlvbmFsIjpbImFueSJdfX0sInRvIjpbeyJrZXlfY29kZSI6ImxlZnRfc2hpZnQifV0sInRvX2lmX2Fsb25lIjpbeyJrZXlfY29kZSI6ImYxMyJ9XX1dfV19)。如果网站失效，参考[ sspai ](https://sspai.com/post/43324)
